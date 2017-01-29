@@ -1,0 +1,25 @@
+  Paroqramlashdirma paradiqmasi dedikde problemler uchun nezerde tutulan hellerin nece formul halina getireleceyi ile elaqeli bir proqramlashdirma stili basha dushulur.Esas proqramlashdirma paradigmalari ashagidakilardir:
+
+1. Imperative paradigm
+2. Functional paradigm
+3. Logic paradigm
+4. Object-oriented paradigm
+
+1. Imperative paradigm - Emirli proqramlashdirma.Bu cur programlashma dillerinde komandalar setir-setir emirler sheklinde yazilir.Meselen;robota verilen emirler- saga don,5 metr ireli get,sola don ve s.Fortran algol kimi dillerinde heller uchun bu paradigmadan istifade edilir.
+
+2. Functional paradigm - Funksiyanal proqramlashdirma.Bu paradigma problemlerde riyazi hellerden istifade olunur.Yeni problemler proqramlashdirmada riyazi funksiyalari yerine yetiren komandalarla hell olunur.
+
+3. Logic paradigm - Mentiqi proqramlashdirma.Bu cur proqlamlashdirmada riyazi mentiqden istifade olunur ve netice alinan melumatlardan mentiqi olaraq chixir.Prolog dilini buna misal gostermek olar.
+
+4. Object-oriented paradigm - Obyekt yonumlu programlashdirma.Bu cur proqramlashmalarda etrafda gorulen her bir obyektin funksional(yerine yetirdiyi ishler) ve goruntu(hundurluyu,eni,chekisi,rengi ve s) olaraq qarshiligi yaradilir.Obyekt yonlu proqramlashdirma dillerine- Simula, Smaltalk, C++, Object Pascal, Objectiv-C, Java, C # gostermek olar.
+  1.Obyekt -  Obyektler modullardan istifade edir ve hadiselere reaksiya verir. Obyekt verilenlerin emal edilmesi ucun lazim olan metodlardan istifade edir. Ne yerine yetirmek lazimdirsa obyektlerde icra olunur
+
+  2.Class - Class ozluyunde bir obyektin xususiyyetini dashiyir ve oz funksiyasi vardir. Bunlar diger classlardan asili deyil, tam serbest chalishirlar.
+
+  3.Inheritance - Bir sinfin metodlarindan istifade ederek bashqa bir sinfin yaradilmasina imkan verir.
+
+  4.Polymorphism - Polimorfizmin esas meqsedi daha az kod ile daha ustun mehsuldarliq elde etmekdir. Yazilan kodun oxshar xasselere malik bir neche sinif uchun tekrarlanmadan umumi yazilmasina nail olmaq.
+
+  5.Abstraction - Abstrakt class yarimchiq class da adlanir.Abstrak classlardan her hansi bir obyekt yaradildikda bu obyektin bir hissesi kimi istifade olunur.Abstract class tam bir obyekti tesvir etmir,obyektin mueyyen funksiya ve gostericilerini ozunde saxlayir.
+
+  6.Encapsulation - proqramchiya obyektleri qorumaq imkani verir. Yeni private teyin etdiyimiz deyishenleri istifadechiden gizletmek menasina gelir.
